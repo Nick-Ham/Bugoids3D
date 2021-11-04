@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/Lamp.vox-76b41c53d5df1274b7327909ea117f26.mesh"
+
+[deps]
+
+source_file="res://addons/Lamp.vox"
+dest_files=[ "res://.import/Lamp.vox-76b41c53d5df1274b7327909ea117f26.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false

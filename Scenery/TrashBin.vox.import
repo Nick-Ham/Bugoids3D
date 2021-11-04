@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/TrashBin.vox-53af8f96505de129b9fc52558e89c992.mesh"
+
+[deps]
+
+source_file="res://Scenery/TrashBin.vox"
+dest_files=[ "res://.import/TrashBin.vox-53af8f96505de129b9fc52558e89c992.mesh" ]
+
+[params]
+

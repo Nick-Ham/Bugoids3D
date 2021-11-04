@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scenery/Lamp.vox" type="ArrayMesh" id=1]
+
+[node name="Lamp" type="MeshInstance"]
+transform = Transform( -1.1365e-06, 0, -26, 0, 26, 0, 26, 0, -1.1365e-06, 0, 0, 0 )
+mesh = ExtResource( 1 )
+material/0 = null
+
+[node name="SpotLight" type="SpotLight" parent="."]
+transform = Transform( 0.0384615, 0, 0, 0, -1.68121e-09, 0.0384615, 0, -0.0384615, -1.68121e-09, 0, 3.4702, -0.783848 )
+light_color = Color( 0.862745, 0.705882, 0.462745, 1 )
+light_energy = 2.0
+light_indirect_energy = 6.51
+light_bake_mode = 0
+shadow_enabled = true
+shadow_bias = 1.0
+spot_range = 500.0
